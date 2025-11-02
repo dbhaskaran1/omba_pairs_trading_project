@@ -3,3 +3,8 @@ SETUP
 # Install all the libraries needed from requirements.txt file
 # Start your jupyter notebook with the command `jupyter-notebook`
 # Continue in the Jupyter notebook
+
+# To generate a simple python script to run this one the command line run the below command
+# `jupyter nbconvert --to python PairsTrading-project1.ipynb`
+# It should generate a PairsTrading-project1.py that you can run with `python PairsTrading-project1.py`
+
