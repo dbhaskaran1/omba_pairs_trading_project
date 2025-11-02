@@ -1,0 +1,5 @@
+SETUP
+# Activate or create a new virtualenv. I've used pyenv, and created a virtualenv called omba_fund1
+# Install all the libraries needed from requirements.txt file
+# Start your jupyter notebook with the command `jupyter-notebook`
+# Continue in the Jupyter notebook
